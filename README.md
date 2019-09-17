@@ -1,6 +1,6 @@
 # GuideView
 
-!first guide(https://github.com/hxgJG/GuideView/blob/master/guide1.png)
+![first guide](https://github.com/hxgJG/GuideView/blob/master/guide1.png)
 
 
 

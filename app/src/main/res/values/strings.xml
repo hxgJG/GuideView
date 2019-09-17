@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Guide View</string>
+    <string name="add_alert_clock">Add Alert Clock</string>
+    <string name="clear_list">Clear the list</string>
+</resources>
